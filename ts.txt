@@ -1,0 +1,34 @@
+Central, True
+Roma St, False
+South Brisbane, False
+South Bank, True
+
+Central, True
+Roma St, True
+South Brisbane, False
+South Bank, True
+
+Central, True
+Roma St, False
+South Brisbane, False
+South Bank, True
+Park Road, False
+Buranda, True
+
+Central, True
+Roma St, True
+South Brisbane, True
+South Bank, False
+Park Road, True
+Buranda, True
+
+Central, True
+Roma St, False
+South Brisbane, False
+South Bank, True
+Park Road, False
+Buranda, True
+Station1, False
+Station2, True
+Station3, False
+Station4, True
